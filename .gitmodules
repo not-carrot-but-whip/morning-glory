@@ -1,0 +1,9 @@
+[submodule "yaans"]
+	path = yaans
+	url = https://github.com/KOO-YS/solved.git
+[submodule "jamongK"]
+	path = jamongK
+	url = https://github.com/jamongK/Study.git
+[submodule "joyukang"]
+	path = joyukang
+	url = https://github.com/JoYuKang/TIL.git
